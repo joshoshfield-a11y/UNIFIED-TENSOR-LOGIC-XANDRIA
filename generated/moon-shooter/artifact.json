@@ -1,0 +1,16 @@
+{
+  "intent": "hardcore low gravity moon base shooter with aliens and laser guns",
+  "heal": false,
+  "stamp": "2025-12-22T11:01:18.619Z",
+  "templateUsed": "fps-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

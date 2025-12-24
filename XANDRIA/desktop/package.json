@@ -1,0 +1,27 @@
+{
+  "name": "xandria-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder -w",
+    "pack": "electron-builder --dir",
+    "win": "electron-packager . XANDRIA-Desktop --platform=win32 --arch=x64 --out=release --overwrite"
+  },
+  "build": {
+    "appId": "com.xandria.desktop",
+    "productName": "XANDRIA Desktop",
+    "files": ["main.js", "preload.js", "renderer/**/*"],
+    "win": {
+      "target": [{ "target": "nsis", "arch": ["x64"] }],
+      "artifactName": "XANDRIA-Desktop-${version}-Setup.exe"
+    }
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.9.1",
+    "electron-packager": "^17.1.1"
+  }
+}

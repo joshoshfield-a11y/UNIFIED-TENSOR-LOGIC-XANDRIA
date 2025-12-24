@@ -1,0 +1,17 @@
+{
+  "intent": "retro pixel art dungeon rpg with magic staves",
+  "heal": false,
+  "stamp": "2025-12-22T11:01:37.590Z",
+  "templateUsed": "rpg-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/store.js",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

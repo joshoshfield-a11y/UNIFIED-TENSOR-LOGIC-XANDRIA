@@ -1,0 +1,7 @@
+{
+  "name": "xandria-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": { "xcli": "./bin/index.js" },
+  "dependencies": { "commander": "^12.0.0", "chalk": "^5.3.0", "inquirer": "^9.2.14", "ora": "^8.0.1" }
+}

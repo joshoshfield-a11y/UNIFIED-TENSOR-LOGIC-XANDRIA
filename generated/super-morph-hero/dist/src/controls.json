@@ -1,0 +1,15 @@
+{
+  "forward": "KeyW",
+  "backward": "KeyS",
+  "left": "KeyA",
+  "right": "KeyD",
+  "jump": "Space",
+  "fire": "Mouse0",
+  "reload": "KeyR",
+  "MorphBird": "KeyB",
+  "MorphSpider": "KeyV",
+  "ToggleFlight": "KeyF",
+  "JetpackToggle": "KeyJ",
+  "Grow": "Equal",
+  "Shrink": "Minus"
+}

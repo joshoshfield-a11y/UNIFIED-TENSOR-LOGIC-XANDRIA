@@ -1,0 +1,16 @@
+{
+  "intent": "playable character that morphs into a bird and flys, that controls his size, can turn into a spider and climb walls, and has a jetpack and minigun",
+  "heal": false,
+  "stamp": "2025-12-22T11:10:48.457Z",
+  "templateUsed": "fps-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

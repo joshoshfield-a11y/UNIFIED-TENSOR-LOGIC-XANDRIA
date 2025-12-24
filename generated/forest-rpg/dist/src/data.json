@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "hp": 100,
+    "mp": 50,
+    "str": 10,
+    "dex": 10
+  },
+  "inventory": [
+    {
+      "id": "sword_01",
+      "name": "Rusty Blade",
+      "damage": 5
+    },
+    {
+      "id": "potion_01",
+      "name": "Health Potion",
+      "heal": 20
+    }
+  ],
+  "quests": [
+    {
+      "id": "q_01",
+      "title": "The Beginning",
+      "desc": "Survive the Goblin invasion.",
+      "status": "active"
+    }
+  ]
+}

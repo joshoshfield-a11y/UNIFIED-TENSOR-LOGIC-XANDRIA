@@ -1,0 +1,15 @@
+{
+  "intent": "rpg fantasy forest quest",
+  "heal": false,
+  "stamp": "2025-12-22T10:24:56.554Z",
+  "templateUsed": "rpg-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/store.js",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3
+}

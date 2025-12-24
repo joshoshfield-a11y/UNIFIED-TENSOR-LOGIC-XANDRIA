@@ -1,0 +1,52 @@
+{
+  "gameTitle": "Xandria Generated World",
+  "theme": "dungeon",
+  "sky": "none",
+  "groundTexture": "stone.bmp",
+  "groundColor": "#111111",
+  "fogColor": "#000000",
+  "fogDistance": 20,
+  "playerColor": "#00ff41",
+  "enemyColor": "#ff0055",
+  "lightColor": "#555555",
+  "ambientIntensity": 0.1,
+  "playerSpeed": 3,
+  "enemySpeed": 1,
+  "enemies": [
+    {
+      "id": 0,
+      "type": "Zombie",
+      "hp": 100,
+      "x": 18.489797983143212,
+      "z": 20.732174143016856
+    },
+    {
+      "id": 1,
+      "type": "Zombie",
+      "hp": 100,
+      "x": -21.00056511490784,
+      "z": -13.498301120318626
+    },
+    {
+      "id": 2,
+      "type": "Zombie",
+      "hp": 100,
+      "x": 9.184168180459494,
+      "z": 29.12659487705993
+    },
+    {
+      "id": 3,
+      "type": "Zombie",
+      "hp": 100,
+      "x": 27.304821160962565,
+      "z": -19.792956319839384
+    },
+    {
+      "id": 4,
+      "type": "Zombie",
+      "hp": 100,
+      "x": -22.013783535272143,
+      "z": 28.881690129049364
+    }
+  ]
+}

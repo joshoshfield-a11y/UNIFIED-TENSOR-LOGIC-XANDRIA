@@ -1,0 +1,9 @@
+{
+  "axioms": [
+    "Intent shapes structure",
+    "Structure yields artifact",
+    "Artifact refines intent"
+  ],
+  "MAX_VAULT": 20
+}
+

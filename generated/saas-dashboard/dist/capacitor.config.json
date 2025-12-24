@@ -1,0 +1,6 @@
+{
+  "appId": "com.xandria.app",
+  "appName": "Xandria Mobile",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

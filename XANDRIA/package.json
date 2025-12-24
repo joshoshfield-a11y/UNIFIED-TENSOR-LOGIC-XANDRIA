@@ -1,0 +1,15 @@
+{
+  "name": "xandria",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "xandria": "node tools/xandria/generate.mjs",
+    "heal": "node core/healer.mjs",
+    "awaken": "node core/awaken.mjs",
+    "serve": "node tools/xandria/serve.mjs",
+    "main": "node ../main.mjs",
+    "smoke": "node tests/smoke.mjs",
+    "test": "node --test tests/*.test.mjs"
+  }
+}

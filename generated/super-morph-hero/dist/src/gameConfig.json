@@ -1,0 +1,143 @@
+{
+  "gameTitle": "Xandria World",
+  "version": "1.0.0",
+  "theme": "default",
+  "sky": "day",
+  "ambience": "peaceful",
+  "groundTexture": "grass.bmp",
+  "groundColor": "#101010",
+  "fogColor": "#cccccc",
+  "fogDistance": 50,
+  "playerColor": "#00ff41",
+  "enemyColor": "#ff0055",
+  "lightColor": "#ffffff",
+  "ambientIntensity": 0.5,
+  "uiStyle": "modern",
+  "playerSpeed": 5,
+  "enemySpeed": 2,
+  "jumpHeight": 10,
+  "gravity": -9.8,
+  "difficulty": "normal",
+  "player": {
+    "canFly": true,
+    "canResize": true,
+    "canClimb": true,
+    "hasJetpack": true,
+    "hasMinigun": true,
+    "morphs": [
+      "bird",
+      "spider",
+      "a"
+    ],
+    "size": {
+      "min": 0.5,
+      "max": 3,
+      "default": 1,
+      "speed": 0.1
+    },
+    "weapons": [
+      {
+        "name": "minigun",
+        "rateOfFire": 10,
+        "damage": 6
+      }
+    ]
+  },
+  "enemies": [
+    {
+      "id": 0,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -27.50936976103759,
+      "z": 0.6989958991374201
+    },
+    {
+      "id": 1,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -25.535111855472703,
+      "z": -17.60565058087938
+    },
+    {
+      "id": 2,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -3.4161018997583215,
+      "z": -12.688572062565779
+    },
+    {
+      "id": 3,
+      "type": "Goblin",
+      "hp": 100,
+      "x": 6.133494151958296,
+      "z": -11.051076561675394
+    },
+    {
+      "id": 4,
+      "type": "Goblin",
+      "hp": 100,
+      "x": 29.18809327712321,
+      "z": -21.441575042099533
+    }
+  ],
+  "items": [
+    {
+      "id": "w_minigun",
+      "name": "Minigun",
+      "type": "weapon",
+      "value": 5,
+      "rateOfFire": 0.05,
+      "x": 0,
+      "z": 0
+    },
+    {
+      "id": "item_0",
+      "name": "Default gun",
+      "type": "weapon",
+      "value": 10,
+      "x": 0.0439332765568512,
+      "z": -6.242414182137024
+    },
+    {
+      "id": "item_1",
+      "name": "Health Potion",
+      "type": "consumable",
+      "value": 20,
+      "x": -18.855631860983735,
+      "z": 16.962317529106194
+    },
+    {
+      "id": "item_2",
+      "name": "Health Potion",
+      "type": "consumable",
+      "value": 20,
+      "x": 9.214469648383536,
+      "z": -14.177877575673929
+    },
+    {
+      "id": "item_3",
+      "name": "Default gun",
+      "type": "weapon",
+      "value": 19,
+      "x": -7.767451788185804,
+      "z": 16.4802568323475
+    },
+    {
+      "id": "item_4",
+      "name": "Default gun",
+      "type": "weapon",
+      "value": 14,
+      "x": -4.658246651329332,
+      "z": -5.749300560185526
+    }
+  ],
+  "quests": [
+    {
+      "id": "main_quest",
+      "title": "Survive",
+      "desc": "Defeat the Goblins.",
+      "target": 5,
+      "reward": 1000
+    }
+  ]
+}

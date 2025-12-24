@@ -1,0 +1,109 @@
+{
+  "gameTitle": "Xandria World",
+  "version": "1.0.0",
+  "theme": "dungeon",
+  "sky": "none",
+  "ambience": "water_drips",
+  "groundTexture": "stone.bmp",
+  "groundColor": "#111111",
+  "fogColor": "#000000",
+  "fogDistance": 20,
+  "playerColor": "#00ff41",
+  "enemyColor": "#ff0055",
+  "lightColor": "#ffffff",
+  "ambientIntensity": 0.5,
+  "uiStyle": "retro",
+  "playerSpeed": 5,
+  "enemySpeed": 2,
+  "jumpHeight": 10,
+  "gravity": -9.8,
+  "difficulty": "normal",
+  "enemies": [
+    {
+      "id": 0,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -28.447425397166665,
+      "z": -15.690175251309908
+    },
+    {
+      "id": 1,
+      "type": "Goblin",
+      "hp": 100,
+      "x": 23.840953358297053,
+      "z": -19.9722937543226
+    },
+    {
+      "id": 2,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -19.466572603988578,
+      "z": -5.550481572488235
+    },
+    {
+      "id": 3,
+      "type": "Goblin",
+      "hp": 100,
+      "x": -1.1438494992126613,
+      "z": -5.450860375228535
+    },
+    {
+      "id": 4,
+      "type": "Goblin",
+      "hp": 100,
+      "x": 15.110462862360901,
+      "z": 11.952954071285491
+    }
+  ],
+  "items": [
+    {
+      "id": "item_0",
+      "name": "Health Potion",
+      "type": "consumable",
+      "value": 20,
+      "x": 18.748684990911716,
+      "z": -5.444160268303055
+    },
+    {
+      "id": "item_1",
+      "name": "Dungeon staff",
+      "type": "weapon",
+      "value": 14,
+      "x": 14.350090038566492,
+      "z": 16.86149757853663
+    },
+    {
+      "id": "item_2",
+      "name": "Dungeon staff",
+      "type": "weapon",
+      "value": 12,
+      "x": -2.8872931370757504,
+      "z": -3.20051072132832
+    },
+    {
+      "id": "item_3",
+      "name": "Dungeon staff",
+      "type": "weapon",
+      "value": 11,
+      "x": 0.13003585663381667,
+      "z": 10.66922385011194
+    },
+    {
+      "id": "item_4",
+      "name": "Health Potion",
+      "type": "consumable",
+      "value": 20,
+      "x": 9.307547346450885,
+      "z": 12.871843298620291
+    }
+  ],
+  "quests": [
+    {
+      "id": "main_quest",
+      "title": "Survive",
+      "desc": "Defeat the Goblins.",
+      "target": 5,
+      "reward": 1000
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log*
+.XANDRIA_cache/
+XANDRIA/generated/dist/
+XANDRIA/generated/seal.json
+.DS_Store
+.env
+XANDRIA/desktop/dist/
+XANDRIA/desktop/release/

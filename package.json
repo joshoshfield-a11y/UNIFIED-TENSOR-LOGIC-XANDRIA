@@ -1,0 +1,18 @@
+{
+  "name": "utl-xandria",
+  "version": "1.0.0",
+  "description": "UTL-XANDRIA: The Sealed Manifold Awakens",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node main.mjs",
+    "heal": "node main.mjs --heal",
+    "awaken": "node main.mjs --awaken",
+    "serve": "node main.mjs --serve",
+    "smoke": "node XANDRIA/tests/smoke.mjs",
+    "ci": "node main.mjs -- 'web app' && node XANDRIA/tests/smoke.mjs",
+    "test": "node XANDRIA/tests/smoke.mjs"
+  },
+  "author": "Taylor Christian Mattheisen",
+  "license": "See LICENSE.md"
+}

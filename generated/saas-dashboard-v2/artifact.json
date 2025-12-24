@@ -1,0 +1,20 @@
+{
+  "intent": "react app dashboard for analytics",
+  "heal": false,
+  "stamp": "2025-12-22T10:30:23.682Z",
+  "templateUsed": "react-app",
+  "generatedFiles": [
+    "package.json",
+    "vite.config.js",
+    "postcss.config.js",
+    "tailwind.config.js",
+    "index.html",
+    "src/main.jsx",
+    "src/index.css",
+    "src/App.jsx",
+    "src/components/Layout.jsx",
+    "src/pages/Dashboard.jsx",
+    "src/pages/Settings.jsx"
+  ],
+  "axiomsCount": 3
+}

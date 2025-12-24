@@ -1,0 +1,17 @@
+{
+  "intent": "slow dark horror rpg dungeon with zombies",
+  "heal": false,
+  "stamp": "2025-12-22T10:45:29.832Z",
+  "templateUsed": "rpg-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/store.js",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

@@ -1,0 +1,14 @@
+{
+  "intent": "fast neon cyberpunk fps shooter with robots",
+  "heal": false,
+  "stamp": "2025-12-22T10:45:29.211Z",
+  "templateUsed": "llm-chatbot",
+  "generatedFiles": [
+    "package.json",
+    "server.js",
+    ".env.example"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

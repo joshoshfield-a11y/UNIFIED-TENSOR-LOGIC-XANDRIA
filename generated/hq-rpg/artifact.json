@@ -1,0 +1,17 @@
+{
+  "intent": "high quality rpg adventure",
+  "heal": false,
+  "stamp": "2025-12-22T10:40:34.889Z",
+  "templateUsed": "rpg-three",
+  "generatedFiles": [
+    "index.html",
+    "package.json",
+    "vite.config.js",
+    "src/main.jsx",
+    "src/store.js",
+    "src/Scene.jsx"
+  ],
+  "axiomsCount": 3,
+  "soloEnabled": false,
+  "spec": null
+}

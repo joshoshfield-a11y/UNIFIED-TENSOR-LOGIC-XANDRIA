@@ -1,0 +1,37 @@
+{
+  "items": [],
+  "enemies": [],
+  "map": null,
+  "story": "",
+  "ui": "",
+  "settings": {
+    "controls": []
+  },
+  "landscape": "",
+  "quests": [],
+  "inventory": [],
+  "player": {
+    "morphs": [
+      "a",
+      "bird",
+      "spider"
+    ],
+    "flight": true,
+    "jetpack": true,
+    "wallClimb": true,
+    "sizeControl": true,
+    "size": {
+      "min": 0.5,
+      "max": 3,
+      "default": 1,
+      "speed": 0.1
+    },
+    "weapons": [
+      {
+        "name": "minigun",
+        "rateOfFire": 10,
+        "damage": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "gameTitle": "Xandria Generated World",
+  "theme": "space",
+  "sky": "space",
+  "groundTexture": "metal.bmp",
+  "groundColor": "#000000",
+  "fogColor": "#000000",
+  "fogDistance": 50,
+  "playerColor": "#ff00ff",
+  "enemyColor": "#00ffff",
+  "lightColor": "#ffffff",
+  "ambientIntensity": 0.2,
+  "playerSpeed": 15,
+  "enemySpeed": 8,
+  "enemies": [
+    {
+      "id": 0,
+      "type": "Robot",
+      "hp": 100,
+      "x": 2.712216362037141,
+      "z": 16.1656448755812
+    },
+    {
+      "id": 1,
+      "type": "Robot",
+      "hp": 100,
+      "x": 24.11932226778201,
+      "z": 13.557726921124832
+    },
+    {
+      "id": 2,
+      "type": "Robot",
+      "hp": 100,
+      "x": -26.358072886456753,
+      "z": 27.747697239710575
+    },
+    {
+      "id": 3,
+      "type": "Robot",
+      "hp": 100,
+      "x": -17.46207619325982,
+      "z": -5.828714550416487
+    },
+    {
+      "id": 4,
+      "type": "Robot",
+      "hp": 100,
+      "x": 18.32253177968718,
+      "z": 7.400266266105855
+    }
+  ]
+}

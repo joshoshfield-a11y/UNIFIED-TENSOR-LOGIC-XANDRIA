@@ -1,0 +1,7 @@
+{
+  "name": "xandria-mobile",
+  "type": "module",
+  "scripts": { "start": "vite", "build": "vite build", "cap": "capacitor" },
+  "dependencies": { "react": "latest", "react-dom": "latest", "@capacitor/core": "latest", "@capacitor/ios": "latest", "@capacitor/android": "latest" },
+  "devDependencies": { "@capacitor/cli": "latest", "vite": "latest" }
+}
