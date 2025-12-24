@@ -10,6 +10,9 @@
     "serve": "node tools/xandria/serve.mjs",
     "main": "node ../main.mjs",
     "smoke": "node tests/smoke.mjs",
-    "test": "node --test tests/*.test.mjs"
+    "test": "node --test tests/*.test.mjs",
+    "verify:seal": "node tools/xandria/verify.mjs",
+    "migrate": "node tools/xandria/migrate.mjs",
+    "plugin:load": "node tools/xandria/plugin-loader.mjs"
   }
 }
