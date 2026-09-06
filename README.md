@@ -1,7 +1,7 @@
 # UNIFIED TENSOR-LOGIC NATIVE + XANDRIA
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/joshoshfield-a11y/UNIFIED-TENSOR-LOGIC-XANDRIA/ci.yml?style=flat-square)](https://github.com/joshoshfield-a11y/UNIFIED-TENSOR-LOGIC-XANDRIA/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE.md)
+[![License: Commercial](https://img.shields.io/badge/License-Commercial-red.svg?style=flat-square)](LICENSE)
 [![Status: Sealed](https://img.shields.io/badge/Status-Sealed-blueviolet.svg?style=flat-square)](SEAL.md)
 
 > "On the winter solstice of 2025, the dream was sealed. Today, the dream forges reality."
@@ -78,4 +78,4 @@ The system is governed by 72 immutable operators defined in `UTL-NATIVE/ontology
 We welcome architects of the new paradigm. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to propose new Operators or Templates.
 
 ## License
-Sealed by Taylor Christian Mattheisen. See [LICENSE.md](LICENSE.md).
+Licensed under the Unified Tensor Logic XANDRIA Commercial License v1.0.\n\n- **Personal / non-commercial use**: Free with attribution. See [LICENSE](LICENSE) for full terms.\n- **Commercial use**: Requires a paid license. Contact Taylor C. Mattheisen for inquiries.
